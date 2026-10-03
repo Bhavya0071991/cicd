@@ -6,7 +6,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
    MyApp({super.key});
-  String name = 123;
+
 
   // This widget is the root of your application.
   @override
